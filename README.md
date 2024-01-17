@@ -6,7 +6,7 @@ Welcome to Virtual Garden, a Flutter application designed to help you cultivate 
 
 - **Flutter:** Framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart:** Programming language used in Flutter development.
-- **Apache Hive:** Lightweight and fast key-value database for storing app data locally.
+- **Hive:** Lightweight and fast key-value database for storing app data locally.
 - **Open Weather API:** API for accessing weather data to provide real-time weather information in the app.
 - **Adobe Photoshop:** Graphics editing software used for designing app assets.
 - **Visual Studio Code:** Integrated development environment (IDE) used for Flutter app development.
