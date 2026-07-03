@@ -1,58 +1,104 @@
-<img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-5a24-620a-a0e4-f2aa60c1a5a7/raw?se=2025-09-03T11%3A14%3A47Z&sp=r&sv=2024-08-04&sr=b&scid=5a21509b-06a0-5bab-827c-8270e960d72f&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-03T05%3A37%3A59Z&ske=2025-09-04T05%3A37%3A59Z&sks=b&skv=2024-08-04&sig=7dnL8EcAJL84mhaUu26dF0TjwhPBulZask/qyy/rhFk%3D" width="250px">
+# 🌿 Green Sync – Your Virtual Garden Companion 🌸
 
-# Green Sync 🌱🌺
+<p align="center">
+  <img src="documentation/logo.png" width="180" alt="Green Sync Logo">
+</p>
 
-Welcome to Virtual Garden, a Flutter application designed to help you cultivate and manage your digital garden!
+<p align="center">
+  <strong>Grow, organize, and manage your digital garden with real-time weather support.</strong>
+</p>
 
-## Technologies Used
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Hive-Database-F9A825?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenWeather-API-EB6E4B?style=for-the-badge">
+</p>
 
-- **Flutter:** Framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Dart:** Programming language used in Flutter development.
-- **Hive:** Lightweight and fast key-value database for storing app data locally.
-- **Open Weather API:** API for accessing weather data to provide real-time weather information in the app.
-- **Adobe Photoshop:** Graphics editing software used for designing app assets.
-- **Visual Studio Code:** Integrated development environment (IDE) used for Flutter app development.
+---
 
-## Features
+## 🌱 About the App
 
-- **Manage Your Plants:** Create and manage your personalized digital garden space.
-- **Manage Plants:** Add, remove, and manage different plants in your garden.
-- **Weather Integration:** Real-time weather updates for your location.
+**Green Sync** is a Flutter application that helps you create and manage a **virtual garden** in a simple and interactive way.
 
-## How to Install
+You can add plants, organize them, and view real-time weather information to better understand your environment.
 
-Follow these steps to get the app running on your local machine:
+---
+
+## ✨ Features
+
+### 🌼 Virtual Garden
+Create and manage your own digital garden space.
+
+### 🌿 Plant Management
+- ➕ Add plants  
+- ✏️ Edit plant details  
+- ❌ Remove plants  
+- 📋 Organize your collection  
+
+### 🌦️ Weather Integration
+Get real-time weather updates for your location to stay connected with your environment.
+
+### 💾 Local Storage
+All data is stored locally using **Hive**, ensuring fast and offline access.
+
+### 🎨 Clean UI
+Simple and modern interface designed for smooth user experience.
+
+---
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|------------|---------|
+| 💙 Flutter | App framework |
+| 🎯 Dart | Programming language |
+| 📦 Hive | Local database |
+| ☁️ OpenWeather API | Weather data |
+| 🎨 Adobe Photoshop | UI assets |
+| 💻 Visual Studio Code | Development |
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Install Flutter: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-- Set up Visual Studio Code or any preferred IDE for Flutter development.
+- Flutter SDK installed  
+- Android Studio or VS Code  
+- Emulator or physical device  
 
-### Steps
+Flutter install guide:  
+https://docs.flutter.dev/get-started/install  
 
-1. **Clone the Repository:**
+---
 
-   ```bash
-   git clone https://github.com/your-username/virtual-garden.git
+## 📥 Installation
 
-2. **Open Project in IDE**
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/green-sync.git
+```
 
-3. **Get Dependencies**
-   
-   Run this code in the terminal:
-   ```bash
-   flutter pub get
+### 2. Navigate to project
+```bash
+cd green-sync
+```
 
-4. **Run the app**
+### 3. Install dependencies
+```bash
+flutter pub get
+```
 
-   Connect a device/emulator and run the app using:
-   ```bash
-   flutter run
-5. Create your personal garden
+### 4. Run the app
+```bash
+flutter run
+```
 
-   Once the app is running, start exploring and creating your virtual garden!
+---
 
+<p align="center">
 
+### 🌿 Grow your digital garden, one plant at a time 🌸
 
-##
-<h1 align="center" >Enjoy while learning 🌺🌱</h1>
+</p>
